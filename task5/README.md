@@ -27,7 +27,7 @@ The goal of this project is to develop an interactive Business Intelligence (BI)
 * `README.md` - Documentation for the project.
 
 ## 🚀 Accessing the Dashboard
-* **Live Demo:** [Click here to view the live dashboard]([PASTE_YOUR_LINK_HERE](https://jawairiayousaf123-datascience-analytics-interns-task5app-um4tg4.streamlit.app/))
+* **Live Demo:**(https://jawairiayousaf123-datascience-analytics-interns-task5app-um4tg4.streamlit.app/)
 * **Local Run:** 
   ```bash
   pip install streamlit pandas plotly
