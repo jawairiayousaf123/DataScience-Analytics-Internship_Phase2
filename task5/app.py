@@ -7,7 +7,7 @@ st.set_page_config(page_title="Sales Dashboard", layout="wide")
 st.title("📊 Executive Sales Dashboard")
 
 # Load Data
-df = pd.read_csv('Global_Superstore2.csv', encoding='ISO-8859-1')
+df = pd.read_csv('task5/Global_Superstore2.csv', encoding='ISO-8859-1')
 
 # Sidebar Filters
 st.sidebar.header("Filter Options")
